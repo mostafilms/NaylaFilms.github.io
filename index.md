@@ -8,7 +8,6 @@
 </head>
 <body>
 
-{% include header.html %}
 
 </body>
 </html>
